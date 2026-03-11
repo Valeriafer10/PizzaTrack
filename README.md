@@ -190,6 +190,19 @@ java GestionPedidos
 
 ![Resultado de pedido](imagenes/resultado.png)
 
+🎥 Video de Sustentación
+
+En el siguiente video se explica:
+
+Funcionamiento del sistema
+
+Lógica de los métodos push() y pop()
+
+Ejecución del ciclo Registrar → Deshacer → Rehacer
+
+🔗 Link del video:
+https://drive.google.com/file/d/13hrs-siWNaKE_3jQTe9QYAeSa2nUmIbF/view?usp=sharing
+
 # 👨‍💻 Autor
 VALERIA FERNÁNDEZ VERGARA
 Actividad académica – Manipulación de Arreglos y Listas en Java
