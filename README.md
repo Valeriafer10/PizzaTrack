@@ -164,41 +164,31 @@ java GestionPedidos
 
 ## Menú del sistema
 
-📌 Aquí debes agregar una captura donde se vea el menú en la consola.
-
-```
-IMAGEN
-```
+![Menu del sistema](imagenes/menu.png)
 
 ---
 
 ## Registro de una pizza
 
-📌 Captura mostrando cuando registras una pizza con sus ingredientes.
-
-```
-IMAGEN
-```
+![Registro de pizza](imagenes/registrar.png)
 
 ---
 
 ## Deshacer pedido (Undo)
 
-📌 Captura mostrando la ejecución de la opción **Deshacer**.
-
-```
-IMAGEN
-```
+![Deshacer pedido](imagenes/undo.png)
 
 ---
 
 ## Rehacer pedido (Redo)
 
-📌 Captura mostrando la ejecución de **Rehacer**.
+![Rehacer pedido](imagenes/redo.png)
 
-```
-IMAGEN
-```
+---
+
+## Resultado
+
+![Resultado de pedido](imagenes/resultado.png)
 
 # 👨‍💻 Autor
 VALERIA FERNÁNDEZ VERGARA
