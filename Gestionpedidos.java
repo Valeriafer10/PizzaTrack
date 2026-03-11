@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GestionPedidos {
+public class Gestionpedidos {
 
     public static void main(String[] args) {
 
